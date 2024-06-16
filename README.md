@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to SneakLAB! This project was created for educational purposes as part of the Front-End course at FLAG. The primary goal of this project is to demonstrate the practical application of React and various libraries in building a functional and responsive e-commerce website.
+Welcome to my website, SneakLAB! This project was created for educational purposes as part of the Front-End course at FLAG. The primary goal of this project is to demonstrate the practical application of React and various libraries in building a functional and responsive e-commerce website.
 
 ## Table of Contents
 
